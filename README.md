@@ -1,10 +1,10 @@
 <img src="images/neteclogo.png" alt="logo" width="300"/>
 
-# IA Generativa en Ciberseguridad Avanzada
+# Creación de agentes con Copilot Studio MCP, N8N y LLM
 
 ## Plataforma de laboratorios
 
-Te damos la bienvenida a la **plataforma de laboratorios** del curso **IA Generativa en Ciberseguridad Avanzada**. Aquí podrás explorar diferentes tecnologías a través de prácticas guiadas. ¡Desarrolla tus habilidades y lleva tus conocimientos al siguiente nivel!
+Te damos la bienvenida a la **plataforma de laboratorios** del curso **Creación de agentes con Copilot Studio MCP, N8N y LLM**. Aquí podrás explorar diferentes tecnologías a través de prácticas guiadas. ¡Desarrolla tus habilidades y lleva tus conocimientos al siguiente nivel!
 
 ## Lista de laboratorios
 
