@@ -14,7 +14,7 @@ Cada uno de estos laboratorios está diseñado para ofrecerte una experiencia pr
 - **Descripción**: Identificar el uso de Copilot Studio, las limitantes  y las características de seguridad de los agentes clásicos de Copilot Studio en Microsoft Teams.
 - ⏱️ **Duración estimada**: 35 min.
 
-### [Práctica 2. Crea agentes en el Copilot Studio integrando tus datos e IA Gen](Capítulo1/Lab1-2.md)
+### [Práctica 2. Crea agentes en el Copilot Studio integrando tus datos e IA Gen](Capítulo1/Lab1-2.md)
   - **Descripción**: Crear y configurar un agente personalizado en Copilot Studio integrando datos empresariales desde SharePoint y ajustando sus respuestas mediante instrucciones específicas. Configurar acciones automatizadas usando conectores, como el envío de correos electrónicos a través de Outlook, y establecer reglas para asegurar el flujo seguro de información.
 - ⏱️ **Duración estimada**: 35 min.
 
