@@ -154,7 +154,7 @@ Luego cierre la ventana de las **Phrases**.
 
 Luego haz clic nuevamente en la cruz **+** y selecciona nuevamente **Send a message**.
 
-![LabImage](../images/1Capitulo1Lab22.jpg)
+![LabImage](../images/1Capitulo1Lab22.png)
 
 ---
 
