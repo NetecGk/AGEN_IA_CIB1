@@ -231,6 +231,14 @@ Luego haz clic nuevamente en la cruz **+** y selecciona nuevamente **Send a mess
 
 ![LabImage](../images/1Capitulo1Lab33.1.png)
 
+**Paso 19.** Configura  en *set variable value* los siguientes parámetros:
+* **Set variable:** seleccione Select a variable se abrira una ventana emergente despues en esa ventana seleccione **Create a new variable**. se creara una variable
+* de nombre *Var1* de clic en esta nombre y renombrela a 'respuestaString'
+* **To value:**  de clic en los puntos suspensivos para editar **...** despues en la ventana emergente seleccione la pestaña **Formula** e ingrese lo siguiente **Text(Topic.Respuesta)**  despues de colocar la formula seleccione el boton **Insertar**.
+
+  ![LabImage](../images/1Capitulo1Lab33.2.png)
+
+
 
 **Paso 20.** Haz clic en el botón **+** debajo de la rama para la opción ***Política de Seguridad de la Información*** y selecciona **Llamar a una herramienta**. Luego, selecciona **Crea un flujo**.
 
