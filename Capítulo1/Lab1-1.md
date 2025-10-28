@@ -271,63 +271,13 @@ seleccione **Add a tool** seleccione la pestaña **Tool** despues en la opcion q
 >`https://aznetecgroup29-my.sharepoint.com/:f:/g/personal/azstudent29_aznetecgroup29_onmicrosoft_com/EjiYFXC_g45Hg2xzfil_dZwBrJMBhxYS462pMXtWDfE9RQ?e=RDqEpO`
 >
 >`Saludos`
+* La configuración final debe de quedar como se puestra en la imagen siguiente:
 
 ![LabImage](../images/1Capitulo1Lab33.7.png)
 
----
-* La configuración final debe de quedar como se puestra en la imagen siguiente:
-
-
-**Paso 20.** Haz clic en el botón **+** debajo de la rama para la opción ***Política de Seguridad de la Información*** y selecciona **Llamar a una herramienta**. Luego, selecciona **Crea un flujo**.
-
-![LabImage](../images/1Capitulo1Lab36.png)
 
 ---
 
-**Paso 21.** Esto abrirá un conjunto de plantillas de Power Automate. Tómate un momento para verificar algunas, y luego selecciona **Enviar un mensaje de correo electrónico de Outlook**. Otorga permisos al conector Office 365 Outlook, haciendo clic en **Iniciar sesión**
-
-![LabImage](../images/1Capitulo1Lab37.png)
-![LabImage](../images/1Capitulo1Lab382.png)
-
----
-
-**Paso 22.** El flujo prácticamente está creado, sólo debemos hacer algunos ajustes. Haz clic en la acción: **Send an email (V2)**
-
-![LabImage](../images/1Capitulo1Lab38.png)
-
-
-
-**Paso 24.** En la acción **Return value(s) to Power Virtual Agents** Elimina **Boby**
-
-![LabImage](../images/1Capitulo1Lab383.png)
-
----
-
-**Paso 25.** En el trigger **Power Virtual Agents** Elimina **Boby**.
-
-![LabImage](../images/1Capitulo1Lab384.png)
-
----
-
-**Paso 26.** Haz clic en el botón **Guardar**, para guardar tu flujo automatizado.
-
-![LabImage](../images/1Capitulo1Lab39.png)
-
----
-
-
-
-**Paso 29.** Ahora sí, haz clic en el botón **+** debajo de la pregunta anterior y selecciona **Llamar a una herramienta**. Luego, selecciona el flujo que acabas de crear.
-
-![LabImage](../images/1Capitulo1Lab43.png)
-
----
-
-**Paso 30.** En el campo **To**, selecciona la variable `Correo` que creaste en la pregunta anterior. En el campo **Subject**, selecciona la variable `Respuesta` que creaste anteriormente.
-
-![LabImage](../images/1Capitulo1Lab44.png)
-
----
 
 **Paso 31.** Agrega un nuevo mensaje que contenga el siguiente texto:
 
