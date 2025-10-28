@@ -201,18 +201,16 @@ Luego haz clic nuevamente en la cruz **+** y selecciona nuevamente **Send a mess
 
 ---
 
-**Paso 17.** Configura la condición de la izquierda con los siguientes parámetros:
-* Variable: `Decisión`
-* Valor lógico **es igual a**
-* Valor `True`
+**Paso 17.** Configura la condición  con los siguientes parámetros:
+* Select a Variable: `Decisión`
+* Valor lógico **is equal to**
+* Enter  or select a value **true**
 
 ![LabImage](../images/1Capitulo1Lab29.png)
-![LabImage](../images/1Capitulo1Lab30.png)
-![LabImage](../images/1Capitulo1Lab31.png)
 
 ---
 
-**Paso 18.** En la rama **If true**, haz clic en el botón **+** y selecciona **Formular una pregunta**.
+**Paso 18.** En la rama **If true**, haz clic en el botón **+** y selecciona **Ask a question**.
 
 ![LabImage](../images/1Capitulo1Lab32.png)
 
