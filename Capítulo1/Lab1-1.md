@@ -195,7 +195,7 @@ Luego haz clic nuevamente en la cruz **+** y selecciona nuevamente **Send a mess
 
 ---
 
-**Paso 16.** Haz clic en el botón **+** debajo de la pregunta y selecciona **Agregar una condición**.
+**Paso 16.** Haz clic en el botón **+** debajo de la pregunta y selecciona **Add a condition**.
 
 ![LabImage](../images/1Capitulo1Lab28.png)
 
