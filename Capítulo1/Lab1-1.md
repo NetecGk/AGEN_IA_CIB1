@@ -168,11 +168,7 @@ Luego haz clic nuevamente en la cruz **+** y selecciona nuevamente **Send a mess
 [Política de Concientización y Capacitación en Seguridad](https://aznetecgroup29-my.sharepoint.com/:w:/g/personal/azstudent29_aznetecgroup29_onmicrosoft_com/EdPAfbokR5RIoah6jiGVGGgBRA3w8AP7kZN1jS9H0hebPw?e=hmpft9)
 ```
 
-
-
-
-
- Cada opción, que se agrego tiene un vínculo usando **Markdown**. Los vínculos a agregar son los siguientes:
+ Cada opción, que se agrego tiene un vínculo usando **Markdown**. Los vínculos fueron los siguientes:
 
  | Opción | Vínculo |
 | --- | --- |
@@ -182,13 +178,9 @@ Luego haz clic nuevamente en la cruz **+** y selecciona nuevamente **Send a mess
 | Política de Identidad y Acceso | https://aznetecgroup29-my.sharepoint.com/:w:/g/personal/azstudent29_aznetecgroup29_onmicrosoft_com/Ec4T0DMUQWlHtIeyOgljpGkBfj_NLJJjCE2mbD73Dy_05Q?e=wgDI98 |
 | Política de Identidad y Acceso | https://aznetecgroup29-my.sharepoint.com/:w:/g/personal/azstudent29_aznetecgroup29_onmicrosoft_com/EdPAfbokR5RIoah6jiGVGGgBRA3w8AP7kZN1jS9H0hebPw?e=hmpft9 |
 
-Luego haz clic en el botón **check** por cada vínculo agregado.
 
-![LabImage](../images/1Capitulo1Lab23.png)
 
----
-
-**Paso 14.** Debajo del mensaje hacemos nuevamente clic en **+** y selecciona **Formular una pregunta**.
+**Paso 14.** Debajo del mensaje hacemos nuevamente clic en **+** y selecciona **Ask a question**.
 
 ![LabImage](../images/1Capitulo1Lab26.png)
 
