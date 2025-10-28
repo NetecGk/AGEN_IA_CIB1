@@ -141,19 +141,18 @@ finalmente de clic en el botón **Save**.
 
 ---
 
-**Paso 11.** Configura el nuevo tema con los siguientes parámetros:
-* **Name:** Políticas de seguridad
-* **Trigger phrases:** políticas de seguridad, seguridad, normas de seguridad, etc.
+**Paso 11.** Para editar el *Trigger* de clic en **Edit** luego Configure los siguientes parámetros:
+* **Add phrases:** políticas de seguridad, seguridad, normas de seguridad, etc.
 
-Luego cierra la ventana de las **Trigger phrases**.
+Luego cierre la ventana de las **Phrases**.
 
 ![LabImage](../images/1Capitulo1Lab21.jpg)
 
 ---
 
-**Paso 12.** Agrega un nuevo nodo conversacional de **Show a message** y en la sección **Messages**, escribe: `Actualmente le puedo dar apoyo con las siguiente políticas de seguridad`. 
+**Paso 12.** Agrega un nuevo nodo conversacional de **Send a message** y en la sección **Messages**, escribe: `Actualmente le puedo dar apoyo con las siguiente políticas de seguridad`. 
 
-Luego haz clic nuevamente en la cruz **+** y selecciona nuevamente **Show a message**.
+Luego haz clic nuevamente en la cruz **+** y selecciona nuevamente **Send a message**.
 
 ![LabImage](../images/1Capitulo1Lab22.png)
 
