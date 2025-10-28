@@ -233,11 +233,49 @@ Luego haz clic nuevamente en la cruz **+** y selecciona nuevamente **Send a mess
 
 **Paso 19.** Configura  en *set variable value* los siguientes parámetros:
 * **Set variable:** seleccione Select a variable se abrira una ventana emergente despues en esa ventana seleccione **Create a new variable**. se creara una variable
-* de nombre *Var1* de clic en esta nombre y renombrela a 'respuestaString'
-* **To value:**  de clic en los puntos suspensivos para editar **...** despues en la ventana emergente seleccione la pestaña **Formula** e ingrese lo siguiente **Text(Topic.Respuesta)**  despues de colocar la formula seleccione el boton **Insertar**.
+ de nombre *Var1* de clic en esta nombre y renombrela a 'respuestaString'
+* **To value:**  de clic en los puntos suspensivos para editar **...** despues en la ventana emergente seleccione la pestaña **Formula** e ingrese lo siguiente **Text(Topic.Respuesta)**  despues de colocar la formula seleccione el boton **Insertar** la configuración final de la variable quedara  como se muestra en la imagen.
 
   ![LabImage](../images/1Capitulo1Lab33.2.png)
 
+**Paso 20.** Agrega un nodo debajo de tipo  **Ask a question** debajo de la variable que secreo en el paso anterior .
+
+
+**Paso 21.** Configura la pregunta con los siguientes parámetros:
+
+* **Formular una pregunta** Por favor, ingresa tu correo electrónico.
+* **Identify** seleccione Email.
+* **Save user response as:**: Haz clic  en **Var1** y renombre la variable a `Correo`, cierra la ventana de **Propiedades de variables**.
+
+![LabImage](../images/1Capitulo1Lab33.4.png)
+
+---
+
+**Paso 22.** Agrega un nodo debajo de la  pregunta **Por favor, ingresa tu correo electrónico**.
+seleccione **Add a tool** seleccione la pestaña **Tool** despues en la opcion que tiene un icono de un rayo seleccione **Add a tool** Busque y seleccione **Send an email (V2)** nota:este tiene que ser de office 365 Outlook. despues seleccione en **Connection**  Not connected para que se abra la opcion de **Create new connection** seleccione esta opción, despues de clic en **Create**   coloque sus credenciales y de clic **Add to agent**  en **X**.
+
+***Nota**El paso anterior solo es para agregar una conexión este no agregara un nodo.*
+
+**Paso 22.** Ahora si vamos a agregar un nodo debajo de la  pregunta **Por favor, ingresa tu correo electrónico**. seleccione **+** seleccione **Add a tool** seleccione la pestaña **Tool** despues en la opcion  **Send an email (V2)**
+
+**Paso 23.** En el nodo agregado reciente mente configure los siguientes parámetros:
+* Seleccione **+Set value**  para agregar  To, Subject y Body para cada uno de estos valores configure los siguiente:
+* To: correo
+* Subject:respuestaString
+* Body: reemplazalo por el siguiente mensaje estático:
+
+>`¡Hola!`
+>
+>`De acuerdo a tu solicitud, a continuación envío la ruta donde se encuentran las políticas de seguridad, si no tienes acceso no dudes en comunicarte con tu administrador.`
+>
+>`https://aznetecgroup29-my.sharepoint.com/:f:/g/personal/azstudent29_aznetecgroup29_onmicrosoft_com/EjiYFXC_g45Hg2xzfil_dZwBrJMBhxYS462pMXtWDfE9RQ?e=RDqEpO`
+>
+>`Saludos`
+
+![LabImage](../images/1Capitulo1Lab33.7.png)
+
+---
+* La configuración final debe de quedar como se puestra en la imagen siguiente:
 
 
 **Paso 20.** Haz clic en el botón **+** debajo de la rama para la opción ***Política de Seguridad de la Información*** y selecciona **Llamar a una herramienta**. Luego, selecciona **Crea un flujo**.
@@ -257,21 +295,7 @@ Luego haz clic nuevamente en la cruz **+** y selecciona nuevamente **Send a mess
 
 ![LabImage](../images/1Capitulo1Lab38.png)
 
----
 
-**Paso 23.** Quita el valor dinámico ***Body*** del cuerpo del correo, y reemplazalo por el siguiente mensaje estático:
-
->`¡Hola!`
->
->`De acuerdo a tu solicitud, a continuación envío la ruta donde se encuentran las políticas de seguridad, si no tienes acceso no dudes en comunicarte con tu administrador.`
->
->`https://aznetecgroup29-my.sharepoint.com/:f:/g/personal/azstudent29_aznetecgroup29_onmicrosoft_com/EjiYFXC_g45Hg2xzfil_dZwBrJMBhxYS462pMXtWDfE9RQ?e=RDqEpO`
->
->`Saludos`
-
-![LabImage](../images/1Capitulo1Lab381.png)
-
----
 
 **Paso 24.** En la acción **Return value(s) to Power Virtual Agents** Elimina **Boby**
 
@@ -291,21 +315,7 @@ Luego haz clic nuevamente en la cruz **+** y selecciona nuevamente **Send a mess
 
 ---
 
-**Paso 27.** Regresa a la pestaña del navegador donde tienes abierto **Copilot Studio**, y antes de agregar el flujo, agrega un nodo de **Formular una pregunta**.
 
-![LabImage](../images/1Capitulo1Lab41.png)
-
----
-
-**Paso 28.** Configura la pregunta con los siguientes parámetros:
-
-* **Formular una pregunta** Por favor, ingresa tu correo electrónico.
-* **Identificar** Respuesta completa del usuario
-* **Guardar respuesta como**: Haz clic en el ícono del ***lapiz***, y luego configura el nombre a `Correo`, cierra la ventana de **Propiedades de variables**.
-
-![LabImage](../images/1Capitulo1Lab42.png)
-
----
 
 **Paso 29.** Ahora sí, haz clic en el botón **+** debajo de la pregunta anterior y selecciona **Llamar a una herramienta**. Luego, selecciona el flujo que acabas de crear.
 
