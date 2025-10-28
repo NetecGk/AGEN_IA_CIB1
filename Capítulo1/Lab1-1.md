@@ -49,13 +49,14 @@ En la ventana emergente ubica la pestaña ***Permisos*** y revisa los permisos l
 
 **Paso 4.** Verificación de interfaz web
 
-Seguramente recibirás una recomendación para el uso de la app de escritorio, por propósitos de nuestro laboratorio continuaremos en la interfaz web. 
+Seguramente recibirás una recomendación para el uso de la app de escritorio, por propósitos de nuestro laboratorio continuaremos en la interfaz web seleccione "Show the app anyway". 
 
 ![LabImage](../images/1Capitulo1Lab5.png)
 
 ### Tarea 2. Crear un equipo en Teams
 
-**Paso 1.** Para poder crear un asistente en Teams, antes debes elegir o crear un equipo. Regresa a la opción de chat del costado izquierdo, busca en el apartado ***Teams and channels*** la opción **See all your teams** y seleccionala. Verás listado sólo un equipo, haz clic en el botón **Create team** y luego en **create team**.
+**Paso 1.** Para poder crear un asistente en Teams, antes debes elegir o crear un equipo. Regresa a la opción de chat del costado izquierdo, selecciona "See all your teams" vera al centro en la sección "Your Teams and channels" un listado de sólo un equipo, después en el apartado superior derecho haz clic en **Create team ▾** y luego seleccionan **create team**.
+
 
 ![LabImage](../images/1Capitulo1Lab8.png)
 
@@ -63,7 +64,7 @@ Seguramente recibirás una recomendación para el uso de la app de escritorio, p
 
 **Paso 2.** Crea un nuevo equipo configurando los siguientes parámetros:
 
-* **Team name:** Netec
+* **Team name:** Netec(xy) **cambie la xy por su número de usuario que se le asigno**
 * **First channel name:** General
 
 Y luego haz clic en el botón **Create**.
@@ -75,22 +76,26 @@ En este caso, vamos a omitir los miembros al equipo, por lo cual, en la siguient
 
 ### Creación del agente
 
-**Paso 1.** Regresa nuevamente a la aplicación **Copilot Studio** que previamente añadiste a Mircosoft Teams. 
+
+**Paso 1.** Regresa nuevamente a la aplicación **Copilot Studio** que previamente añadiste a Mircosoft Teams.
 
 Abre la interfaz haciendo clic en el botón **Start now**.
+
+Nota: si aparece la ventana emergente  "This app may have issues in the web version of Teams" seleccione "Show the app anyway"
+
 
 ![LabImage](../images/1Capitulo1Lab6.png)
 
 ---
 
-**Paso 2.** Verás una ventana que te solicita seleccionar un equipo para iniciar, selecciona el equipo que creaste previamente: ***Netec***. Esto abrirá una ventana donde te dice que se está creando el chatbot y que puedes cerrar esa ventana, haz clic en **Close**.
+**Paso 2.** Verás una ventana que te solicita seleccionar un equipo para iniciar, selecciona el equipo que creaste previamente: **Netec(xy)**. Esto abrirá una ventana donde te dice que se está creando el chatbot de clic al botón "Continue", después otro clic en **Close**.
 
 ![LabImage](../images/1Capitulo1Lab11.png)
 ![LabImage](../images/1Capitulo1Lab12.png)
 
 ---
+**Paso 3.** En la interfaz de Microsoft Copilot seleccione la pestaña Copilots, después observe en el costado izquierdo debajo de **"My copilots"** debe estar el nombre de tu equipo **Netec(xy)**, y con el equipo seleccionado debes tener la opción **+New copilot**, haz clic sobre esta última opción
 
-**Paso 3.** Si todo funcionó correctamente, en la interfaz de Microsoft Copilot debe estar seleccionada la pestaña ***Copilots***, en el costado izquierdo debajo de ***My copilots*** debe estar el nombre de tu equipo **Netec**, y con el equipo seleccionado debes tener la opción **+New copilot**, haz clic sobre esta última opción. 
 
 ![LabImage](../images/1Capitulo1Lab13.png)
 
@@ -102,17 +107,11 @@ Abre la interfaz haciendo clic en el botón **Start now**.
 
 ---
 
-**Paso 5.** Ahora configura **Name** con `NetecBot` y haz clic en **Create**.
+**Paso 5.** En la sección **Name** ingrese NetecBot como nombre y de clic al botón **Create**.
 
 ![LabImage](../images/1Capitulo1Lab15.png)
 
----
 
-**Paso 6.** Ya tenemos nuestro agente. Fíjate cómo en el nombre aparece entre paréntesis ***classic***. Ahora haz clic en la opción **Test your chatbot** del costado inferior izquierdo. 
-
-![LabImage](../images/1Capitulo1Lab16.png)
-
----
 
 **Paso 7.** En la ventana emergente escribe el siguiente mensaje: `Hola`, y presiona Enter. La respuesta generada hace parte de un tema preconfigurado, haz clic sobre la respuesta del agente en la ventana del **Test bot**, esto abrirá el tema del que se devolvió la respuesta, en este caso **¿Qué tal?**.
 
@@ -120,13 +119,11 @@ Abre la interfaz haciendo clic en el botón **Start now**.
 
 ---
 
-**Paso 8.** Observa que el tema tiene un conjunto de mensajes predefinidos que puedes editar, eliminar o añadir nuevos mensajes.
+**Paso 8**. Observa que el tema tiene un conjunto de mensajes predefinidos que puedes editar, eliminar o añadir nuevos mensajes.
 
-En este caso cambiarás la respuesta preconfigurada por:
+En la sección del Tema "Message" elimine el mensaje que esta por default después de clic en +Add  y seleccione la opción Message variation después cambiarás la respuesta preconfigurada por: ¡Hola! Soy NetecBot, su asistente virtual. Puedo ayudar con preguntas de las políticas de seguridad de la empresa.
 
-`¡Hola! Soy NetecBot, su asistente virtual. Puedo ayudar con preguntas de las políticas de seguridad de la empresa.`
-
-Y luego haz clic en el botón **Save**.
+finalmente de clic en el botón **Save**.
 
 ![LabImage](../images/1Capitulo1Lab18.png)
 
