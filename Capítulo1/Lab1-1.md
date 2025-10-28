@@ -163,8 +163,11 @@ Luego haz clic nuevamente en la cruz **+** y selecciona nuevamente **Send a mess
 `- [Política de Seguridad de la Información](https://aznetecgroup29-my.sharepoint.com/:w:/g/personal/azstudent29_aznetecgroup29_onmicrosoft_com/ESEo-WtwPQ5InbSjhodc08wBBeXHeN1UVLCiJOAcLO_slg?e=Hmo9R0)`
 `- [Política de Uso Aceptable de Tecnología](https://aznetecgroup29-my.sharepoint.com/:w:/g/personal/azstudent29_aznetecgroup29_onmicrosoft_com/EawxZNlG-oVNiYFe_dGPSTYBT1miyw1CkvGI-pHoUbuifg?e=mqPvG5)`
 `- [Política de Respaldo y Recuperación](https://aznetecgroup29-my.sharepoint.com/:w:/g/personal/azstudent29_aznetecgroup29_onmicrosoft_com/Edawx6RgH29ArSpN2_O0QaIB8Xi58JWgSpvdYBx5HxJQrw?e=OTsr1y)`
-`- [Política de Identidad y Acceso](https://aznetecgroup29-`my.sharepoint.com/:w:/g/personal/azstudent29_aznetecgroup29_onmicrosoft_com/Ec4T0DMUQWlHtIeyOgljpGkBfj_NLJJjCE2mbD73Dy_05Q?e=wgDI98)`
+`- [Política de Identidad y Acceso](https://aznetecgroup29-my.sharepoint.com/:w:/g/personal/azstudent29_aznetecgroup29_onmicrosoft_com/Ec4T0DMUQWlHtIeyOgljpGkBfj_NLJJjCE2mbD73Dy_05Q?e=wgDI98)`
 `- [Política de Concientización y Capacitación en Seguridad](https://aznetecgroup29-my.sharepoint.com/:w:/g/personal/azstudent29_aznetecgroup29_onmicrosoft_com/EdPAfbokR5RIoah6jiGVGGgBRA3w8AP7kZN1jS9H0hebPw?e=hmpft9)`
+
+
+
 
  Cada opción, que se agrego tiene un vínculo usando **Markdown**. Los vínculos a agregar son los siguientes:
 
