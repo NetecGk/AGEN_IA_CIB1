@@ -226,7 +226,10 @@ Luego haz clic nuevamente en la cruz **+** y selecciona nuevamente **Send a mess
 ![LabImage](../images/1Capitulo1Lab33.png)
 
 
+**Paso 20.** desplazarse hacia abajo  y debajo de la condición de **Politica de Seguridad de la información** de clic en ***+* para agregar otro nodo
+-Una vez agregado el nodo  seleccione **Variable management** luego  seleccione **{X} Set a variable value**.
 
+![LabImage](../images/1Capitulo1Lab33.1.png)
 
 
 **Paso 20.** Haz clic en el botón **+** debajo de la rama para la opción ***Política de Seguridad de la Información*** y selecciona **Llamar a una herramienta**. Luego, selecciona **Crea un flujo**.
