@@ -187,9 +187,9 @@ Luego haz clic nuevamente en la cruz **+** y selecciona nuevamente **Send a mess
 ---
 
 **Paso 15.** Configura la pregunta con los siguientes parámetros:
-* **Formular una pregunta** ¿Quieres que te envíe las políticas por correo electrónico?
-* **Identificar** Booleano
-* **Guardar respuesta como**: Haz clic en el ícono del ***lapiz***, y luego configura el nombre a `Decisión`, cierra la ventana de **Propiedades de variables**.
+* **Enter a message:** ¿Quieres que te envíe las políticas por correo electrónico?
+* **Identify** Booleano
+* **Save user response as**: Haz clic en el nombre ***Var1***, y luego configura el nombre a `Decisión`, cierra la ventana de **Propiedades de variables**.
 
 ![LabImage](../images/1Capitulo1Lab27.png)
 
