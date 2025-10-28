@@ -55,7 +55,7 @@ Seguramente recibirás una recomendación para el uso de la app de escritorio, p
 
 ### Tarea 2. Crear un equipo en Teams
 
-**Paso 1.** Para poder crear un asistente en Teams, antes debes elegir o crear un equipo. Regresa a la opción de chat del costado izquierdo, selecciona "See all your teams" vera al centro en la sección "Your Teams and channels" un listado de sólo un equipo, después en el apartado superior derecho haz clic en **Create team ▾** y luego seleccionan **create team**.
+**Paso 1.** Para poder crear un asistente en Teams, antes debes elegir o crear un equipo. Regresa a la opción de chat del costado izquierdo, selecciona "See all your teams" vera al centro en la sección **"Your Teams and channels"** un listado de sólo un equipo, después en el apartado superior derecho haz clic en **Create team ▾** y luego seleccionan **create team**.
 
 
 ![LabImage](../images/1Capitulo1Lab8.png)
@@ -88,13 +88,13 @@ Nota: si aparece la ventana emergente  "This app may have issues in the web vers
 
 ---
 
-**Paso 2.** Verás una ventana que te solicita seleccionar un equipo para iniciar, selecciona el equipo que creaste previamente: **Netec(xy)**. Esto abrirá una ventana donde te dice que se está creando el chatbot de clic al botón "Continue", después otro clic en **Close**.
+**Paso 2.** Verás una ventana que te solicita seleccionar un equipo para iniciar, selecciona el equipo que creaste previamente: **Netec(xy)**. Esto abrirá una ventana donde te dice que se está creando el chatbot de clic al botón **Continue**, después otro clic en **Close**.
 
 ![LabImage](../images/1Capitulo1Lab11.png)
 ![LabImage](../images/1Capitulo1Lab12.png)
 
 ---
-**Paso 3.** En la interfaz de Microsoft Copilot seleccione la pestaña Copilots, después observe en el costado izquierdo debajo de **"My copilots"** debe estar el nombre de tu equipo **Netec(xy)**, y con el equipo seleccionado debes tener la opción **+New copilot**, haz clic sobre esta última opción
+**Paso 3.** En la interfaz de Microsoft Copilot seleccione la pestaña **Copilots**, después observe en el costado izquierdo debajo de **"My copilots"** debe estar el nombre de su equipo **Netec(xy)**, seleccionado este equipo que creo de clic al boton **+New copilot**.
 
 
 ![LabImage](../images/1Capitulo1Lab13.png)
@@ -107,7 +107,7 @@ Nota: si aparece la ventana emergente  "This app may have issues in the web vers
 
 ---
 
-**Paso 5.** En la sección **Name** ingrese NetecBot como nombre y de clic al botón **Create**.
+**Paso 5.** En la sección **Name** ingrese NetecBot(xy) **cambie la xy por su número de usuario que se le asigno** como nombre y de clic al botón **Create**.
 
 ![LabImage](../images/1Capitulo1Lab15.png)
 
@@ -121,7 +121,7 @@ Nota: si aparece la ventana emergente  "This app may have issues in the web vers
 
 **Paso 8**. Observa que el tema tiene un conjunto de mensajes predefinidos que puedes editar, eliminar o añadir nuevos mensajes.
 
-En la sección del Tema "Message" elimine el mensaje que esta por default después de clic en +Add  y seleccione la opción Message variation después cambiarás la respuesta preconfigurada por: ¡Hola! Soy NetecBot, su asistente virtual. Puedo ayudar con preguntas de las políticas de seguridad de la empresa.
+En la sección del Tema **Message** elimine el mensaje que esta por default después de clic en **+Add**  y seleccione la opción Message variation después cambiarás la respuesta preconfigurada por: ¡Hola! Soy NetecBot, su asistente virtual. Puedo ayudar con preguntas de las políticas de seguridad de la empresa.
 
 finalmente de clic en el botón **Save**.
 
