@@ -147,7 +147,7 @@ finalmente de clic en el botón **Save**.
 
 Luego cierra la ventana de las **Trigger phrases**.
 
-![LabImage](../images/1Capitulo1Lab21.png)
+![LabImage](../images/1Capitulo1Lab21.jpg)
 
 ---
 
