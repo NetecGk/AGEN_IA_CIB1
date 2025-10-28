@@ -220,7 +220,6 @@ Luego haz clic nuevamente en la cruz **+** y selecciona nuevamente **Send a mess
 * **Options for user:** de clic en **New option** para ir agregando cada una de estas opciones ir dando Enter cada que agrega una opción; Política de Seguridad de la Información, Política de Concietización y capacitación, Política de Identidad y acceso.
 * ***Save user response as:** `Respuesta`, para cambiar este nombre tiene que dar doble clic en *Var1* se abre la ventana emergente y puede ahora si cambiar el nombre, despues de cambiar el nombre cierre la ventana emergente.
 
-Cambia el nombre de la variable de la respuesta almacenada para esa pregunta .
 
 **Nota:** ***Para este ejemplo sólo agregaremos esas tres***
 
