@@ -204,7 +204,7 @@ Luego haz clic nuevamente en la cruz **+** y selecciona nuevamente **Send a mess
 **Paso 17.** Configura la condición  con los siguientes parámetros:
 * Select a Variable: `Decisión`
 * Valor lógico **is equal to**
-* Enter  or select a value **true**
+* Enter or select a value: **true**
 
 ![LabImage](../images/1Capitulo1Lab29.png)
 
@@ -212,24 +212,23 @@ Luego haz clic nuevamente en la cruz **+** y selecciona nuevamente **Send a mess
 
 **Paso 18.** En la rama **If true**, haz clic en el botón **+** y selecciona **Ask a question**.
 
-![LabImage](../images/1Capitulo1Lab32.png)
-
 ---
 
 **Paso 19.** Configura la pregunta con los siguientes parámetros:
-* **Formular una pregunta** Selecciona la política
-* **Identificar** Opciones de preguntas de tipo test
-* **Opciones** Política de Seguridad de la Información, Política de Concietización y capacitación, Política de Identidad y acceso
+* **Enter a message:** Selecciona la política
+* **Identify:** Multiple choice options 
+* **Options for user:** de clic en **New option** para ir agregando cada una de estas opciones ir dando Enter cada que agrega una opción; Política de Seguridad de la Información, Política de Concietización y capacitación, Política de Identidad y acceso.
+* ***Save user response as:** `Respuesta`, para cambiar este nombre tiene que dar doble clic en *Var1* se abre la ventana emergente y puede ahora si cambiar el nombre, despues de cambiar el nombre cierre la ventana emergente.
+
+Cambia el nombre de la variable de la respuesta almacenada para esa pregunta .
 
 **Nota:** ***Para este ejemplo sólo agregaremos esas tres***
 
 ![LabImage](../images/1Capitulo1Lab33.png)
 
-Cambia el nombre de la variable de la respuesta almacenada para esa pregunta a: `Respuesta`.
 
-![LabImage](../images/1Capitulo1Lab34.png)
 
----
+
 
 **Paso 20.** Haz clic en el botón **+** debajo de la rama para la opción ***Política de Seguridad de la Información*** y selecciona **Llamar a una herramienta**. Luego, selecciona **Crea un flujo**.
 
