@@ -137,7 +137,7 @@ Luego ejecuta el comando `ls` y valida que esté el archivo **serverMCP.py**.
 **Paso 9.** Regresa a la ventana de PowerShell y vas a enviar los siguientes comandos, reemplazando tanto la **URL** como la **KEY** por los valores que pegaste en el bloc de notas, respectivamente. 
 
 ```bash
-export AZURE_OPENAI_ENDPOINHT="URL"
+export AZURE_OPENAI_ENDPOINTH="URL"
 ```
 
 ![labimage](../images/2Capitulo1Lab19.png)
@@ -172,7 +172,7 @@ Postman es una herramienta de desarrollo que se utiliza para **diseñar, probar 
 
 **Paso 3.** En Postman, selecciona el método **POST** en la ventana de solicitud y luego agrega la siguiente URI. Reemplaza el valor **IP** por la dirección IP con la que accediste al servidor de Ubuntu en el **paso 3 de la Tarea 1**.
 
-`http://`**IP**`/ask?Content-Type=application/json`
+`http://`**IP**`:8080/ask?Content-Type=application/json`
 
 ![labimage](../images/2Capitulo1Lab23.png)
 
@@ -238,7 +238,7 @@ Estas bibliotecas las usaremos para lo siguiente:
 Para esto ejecuta el siguiente comando:
 
 ```bash
-nano conf/mcp_config.yaml
+nano conf/policy.yaml
 ```
 ![labimage](../images/2Capitulo1Lab29.png)
 
