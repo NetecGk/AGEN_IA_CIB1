@@ -137,7 +137,7 @@ Luego ejecuta el comando `ls` y valida que esté el archivo **serverMCP.py**.
 **Paso 9.** Regresa a la ventana de PowerShell y vas a enviar los siguientes comandos, reemplazando tanto la **URL** como la **KEY** por los valores que pegaste en el bloc de notas, respectivamente. 
 
 ```bash
-export AZURE_OPENAI_ENDPOINTH="URL"
+export AZURE_OPENAI_ENDPOINT="URL"
 ```
 
 ![labimage](../images/2Capitulo1Lab19.png)
